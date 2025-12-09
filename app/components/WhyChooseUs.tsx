@@ -50,7 +50,7 @@ const WhyChooseUs = () => {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl font-extrabold text-slate-900 sm:text-4xl mb-4">
-              Why Choose Diatome Ace?
+              Why Choose Diatome Ace Limited?
             </h2>
             <p className="max-w-2xl mx-auto text-xl text-slate-500">
               We are committed to excellence in every drop and every project.

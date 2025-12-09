@@ -25,10 +25,10 @@ const Navbar = () => {
               <Logo className="h-12 w-auto" />
               <div className="flex flex-col">
                 <span className="font-bold text-2xl tracking-tight leading-none">
-                  <span className="text-diatome-blue">DIATOME</span> <span className="text-diatome-red">ACE</span>
+                  <span className="text-diatome-blue">DIATOME</span> <span className="text-diatome-red">ACE LIMITED</span>
                 </span>
                 <span className="text-[0.65rem] tracking-widest text-slate-500 font-medium uppercase hidden sm:block">
-                  Petroleum & Engineering
+                  Petroleum Engineering
                 </span>
               </div>
             </Link>
